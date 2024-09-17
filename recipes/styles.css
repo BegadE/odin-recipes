@@ -1,0 +1,24 @@
+
+#title{
+    font-family: "KG Inimitable Original", serif;
+    font-size: 48px;
+    color: goldenrod;
+}
+
+#subheading{
+    font-family: "KG Inimitable Original", serif;
+    font-size: 20px;
+}
+
+li a {
+    color: silver; /* Replace 'blue' with your desired color */
+}
+
+img{
+    width: 300px;
+    height: auto;
+}
+
+body {
+    font-family: "Atwic", sans-serif;
+  }
