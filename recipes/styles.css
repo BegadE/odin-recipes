@@ -1,12 +1,12 @@
 
 #title{
-    font-family: "KG Inimitable Original", serif;
+    font-family: "KG Inimitable Original", Arial, Helvetica, sans-serif;
     font-size: 48px;
     color: goldenrod;
 }
 
 #subheading{
-    font-family: "KG Inimitable Original", serif;
+    font-family: "KG Inimitable Original", Arial, Helvetica, sans-serif;
     font-size: 20px;
 }
 
@@ -20,5 +20,5 @@ img{
 }
 
 body {
-    font-family: "Atwic", sans-serif;
+    font-family: "Atwic", Arial, Helvetica, sans-serif;
   }
